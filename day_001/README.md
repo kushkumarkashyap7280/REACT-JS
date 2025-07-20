@@ -146,6 +146,29 @@ flowchart TD
 
 ---
 
+## 🔄 React Reconciliation
+
+**Reconciliation** is the process React uses to determine how to efficiently update the UI when the state of a component changes. React compares the new Virtual DOM with the previous one, calculates the minimal set of changes, and updates only the necessary parts of the real DOM. This makes UI updates fast and efficient.
+
+### How Reconciliation Works (Mermaid Diagram)
+
+```mermaid
+flowchart TD
+  A[Component State/Props Change] --> B[New Virtual DOM Created]
+  B --> C[Diffing Algorithm Compares Old & New Virtual DOM]
+  C --> D[Finds Minimal Set of Changes]
+  D --> E[Updates Real DOM Efficiently]
+  E --> F[UI Reflects Latest State]
+  style A fill:#61dafb,stroke:#333,stroke-width:2px
+  style F fill:#61dafb,stroke:#333,stroke-width:2px
+  style B fill:#fff,stroke:#333,stroke-width:1px
+  style C fill:#fff,stroke:#333,stroke-width:1px
+  style D fill:#fff,stroke:#333,stroke-width:1px
+  style E fill:#fff,stroke:#333,stroke-width:1px
+```
+
+---
+
 <p align="center">
   <b>✨ React has transformed the way we build modern web and mobile applications. Dive in and start building amazing UIs! ✨</b>
 </p>

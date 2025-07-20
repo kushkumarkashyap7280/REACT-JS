@@ -43,6 +43,22 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 001: [Introduction to React, History, and Core Concepts](./day_001/)
+
+**What we learned in [day_001](./day_001/):**
+
+- What is a library vs. a framework
+- Introduction to React.js and its history
+- Why React.js is preferred over Vanilla JavaScript
+- Setting up the React development environment
+- Advantages of React
+- Big-picture overview of how React works (with diagrams)
+- React's reconciliation process (with diagrams)
+
+[Explore the full notes and diagrams for Day 001 &rarr;](./day_001/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
