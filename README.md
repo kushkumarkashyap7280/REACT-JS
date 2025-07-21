@@ -4,6 +4,17 @@
 
 <h1 align="center">🚀 My React Learning Journey</h1>
 
+> **Before you open any day's code, always read that day's README first!**
+>
+> Reading the README side by side with the code will give you a much better experience and deeper understanding of the concepts.
+>
+> **⚠️ Important: Do NOT push `node_modules` to GitHub!**
+>
+> - Always add `node_modules` to your `.gitignore` file.
+> - I delete `node_modules` from each project to keep the repo lightweight and avoid making it bulky.
+> - To run any project, go into that day's folder, run `npm install` (or `npm i`), then `npm run dev`.
+> - If you see `node_modules` is missing, just install dependencies as above and everything will work!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kush-kumar-b10020302/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -81,6 +92,23 @@ This repository is a chronicle of my **React learning journey** — structured, 
 - Visualizing the relationship between the real DOM and virtual DOM with a Mermaid diagram
 
 [See the full Day 003 guide &rarr;](./day_003/)
+
+---
+
+## 📅 Day 004: [React Rules & Best Practices](./day_004/)
+
+**What we learned in [day_004](./day_004/):**
+
+- The rule that every component must return a single parent element
+- Using React Fragments (`<> </>`) as a parent when you don't want an extra HTML tag
+- Component naming conventions (capital letter)
+- How to use components as children
+- Using `className` instead of `class` in JSX
+- Writing comments in JSX
+- Creating reusable custom components (DRY principle)
+- Example-driven explanation of all these rules
+
+[See the full Day 004 guide &rarr;](./day_004/)
 
 ---
 
