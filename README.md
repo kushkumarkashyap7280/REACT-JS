@@ -59,6 +59,19 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 002: [Vite React App, Tailwind CSS, and Personalization](./day_002/)
+
+**What we learned in [day_002](./day_002/):**
+
+- How to set up a new React app using Vite
+- Adding Tailwind CSS to a Vite React project
+- Important precautions for project setup and version control
+- Personalizing your first React component with your name
+
+[See the full Day 002 guide &rarr;](./day_002/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
