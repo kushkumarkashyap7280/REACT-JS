@@ -72,6 +72,18 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 003: [React Under the Hood with CDN Scripts](./day_003/)
+
+**What we learned in [day_003](./day_003/):**
+
+- How to use React and JSX directly in the browser with CDN scripts and Babel
+- Step-by-step breakdown of how React renders to the DOM without build tools
+- Visualizing the relationship between the real DOM and virtual DOM with a Mermaid diagram
+
+[See the full Day 003 guide &rarr;](./day_003/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
