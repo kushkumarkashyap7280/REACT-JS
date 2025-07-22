@@ -99,16 +99,48 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 **What we learned in [day_004](./day_004/):**
 
-- The rule that every component must return a single parent element
-- Using React Fragments (`<> </>`) as a parent when you don't want an extra HTML tag
-- Component naming conventions (capital letter)
-- How to use components as children
-- Using `className` instead of `class` in JSX
-- Writing comments in JSX
-- Creating reusable custom components (DRY principle)
-- Example-driven explanation of all these rules
+- Component must return a single parent element
+- Using React Fragments as an alternative to wrapper divs
+- Proper component naming conventions (capitalization)
+- Using components as children
+- Using className instead of class in JSX
+- Proper JSX commenting
+- DRY principle with reusable components
 
 [See the full Day 004 guide &rarr;](./day_004/)
+
+---
+
+## 📅 Day 005: [React Components & Styling Without Build Tools](./day_005/)
+
+**What we learned in [day_005](./day_005/):**
+
+- Setting up React without Create React App using CDN scripts
+- Creating and organizing multiple components (Navbar, Main, Footer)
+- Using React Fragment for efficient component wrapping
+- External CSS styling with Flexbox
+- React component naming conventions
+- Practical implementation of React best practices
+- Interview preparation with common React questions
+
+[See the full Day 005 guide &rarr;](./day_005/)
+
+---
+
+## 📅 Day 006: [Component Organization & File Structure](./day_006/)
+
+**What we learned in [day_006](./day_006/):**
+
+- Transforming functions into proper React components
+- Organizing components into separate files
+- Building a maintainable React project structure
+- Best practices for component file organization
+- Moving from single-file to multi-file components
+- Real-world React application structure
+- Connecting the dots from Day 1 to Day 6
+- Building the bridge to professional React development
+
+[See the full Day 006 guide &rarr;](./day_006/)
 
 ---
 
