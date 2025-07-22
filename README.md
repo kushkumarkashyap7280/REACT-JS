@@ -54,6 +54,8 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+
+
 ## 📅 Day 001: [Introduction to React, History, and Core Concepts](./day_001/)
 
 **What we learned in [day_001](./day_001/):**
@@ -158,6 +160,30 @@ This repository is a chronicle of my **React learning journey** — structured, 
 - Component organization in a real-world project
 
 [See the full Day 007 guide &rarr;](./day_007/)
+
+---
+
+## 📅 Day 008: [Props and Component Reusability in React](./day_008/)
+
+**What we learned in [day_008](./day_008/):**
+
+- Understanding Props as React's component communication system
+- Different ways to pass and handle props:
+  - Individual props passing
+  - Props destructuring
+  - Spread operator usage
+  - Default props
+  - Children props
+- Creating reusable components with props
+- Three approaches to component usage:
+  - Basic static approach
+  - Direct props approach
+  - Data-driven production approach
+- Practical implementation with a Skill Cards project
+- Best practices for props and component reusability
+- Dynamic styling using props with Tailwind CSS
+
+[See the full Day 008 guide &rarr;](./day_008/)
 
 ---
 
