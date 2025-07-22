@@ -54,8 +54,6 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
-
-
 ## 📅 Day 001: [Introduction to React, History, and Core Concepts](./day_001/)
 
 **What we learned in [day_001](./day_001/):**
@@ -184,6 +182,23 @@ This repository is a chronicle of my **React learning journey** — structured, 
 - Dynamic styling using props with Tailwind CSS
 
 [See the full Day 008 guide &rarr;](./day_008/)
+
+---
+
+## 📅 Day 009: [React Hooks and useState](./day_009/)
+
+**What we learned in [day_009](./day_009/):**
+
+- Introduction to React Hooks and why they were introduced
+- Understanding and using the `useState` hook for state management in functional components
+- Syntax and usage of `useState`
+- Best practices for managing state with hooks
+- Building a practical counter app using `useState`
+- Managing multiple state variables in a single component
+- Key takeaways for using hooks and state in React
+- Common interview questions about hooks and state
+
+[See the full Day 009 guide &rarr;](./day_009/)
 
 ---
 
