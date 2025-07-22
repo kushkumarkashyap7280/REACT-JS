@@ -144,6 +144,23 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 007: [Modern React Project Structure & Development Environment](./day_007/)
+
+**What we learned in [day_007](./day_007/):**
+
+- Professional React project structure with Vite
+- Understanding the role of each project folder and file
+- Moving from CDN scripts to NPM packages
+- Working with ES Modules and imports/exports
+- Modern development tools and configuration files
+- Best practices for organizing React components
+- Evolution from basic to professional React setup
+- Component organization in a real-world project
+
+[See the full Day 007 guide &rarr;](./day_007/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
