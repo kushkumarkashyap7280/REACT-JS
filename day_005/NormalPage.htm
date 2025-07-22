@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Normal website</title>
+    
+    <!-- importing css file -->
+    <link rel="stylesheet" href="style.css">  
+
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <script type="text/babel">
+      const root = ReactDOM.createRoot(document.getElementById("root"));
+
+      // this is  exactly the resuable component we going to make in react app it just a function here but there we make  separe file for it;
+      const Navbar = () => {
+        // our navbar component have name start with capital letter --> Navbar
+        return (
+            <nav>
+              <ul>
+                <li>home</li>
+                <li>services</li>
+                <li>about</li>
+              </ul>
+            </nav>
+        );
+      };
+
+      // lets create our  main section
+
+      const Main = () => {
+        return (
+          <main>
+            <h1>hello react </h1>
+             <img src="https://reactnative.dev/img/header_logo.svg" alt="" />
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus
+              at praesentium, blanditiis ullam omnis nesciunt, aliquid obcaecati
+              labore modi, saepe similique? Culpa, excepturi. Cum et dolor
+              provident fugit veniam voluptatibus! Beatae quia numquam illum ad
+              magni voluptatibus, sequi libero sunt illo officiis aperiam
+              similique obcaecati esse eius, ipsum fugiat sed voluptates modi
+              sint aliquam explicabo. Distinctio, dignissimos. Repudiandae,
+              magnam magni!
+            </p>
+          </main>
+        );
+      };
+
+      // lets create footer
+      const Footer = () => {
+        return <footer>@kush all right reserved kushkumarkahsyap</footer>;
+      };
+
+      // lets render
+      root.render(
+        <>
+          <Navbar />
+          <Main />
+          <Footer/>
+        </>
+      );
+
+      // now add css just attach css to head here since we are working using babel or you can create separate files for each function import there only totally ups to you
+    </script>
+  </body>
+</html>
