@@ -185,18 +185,20 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
-## 📅 Day 009: [React Hooks and useState](./day_009/)
+## 📅 Day 009: [Conditional Rendering in React](./day_009/)
 
 **What we learned in [day_009](./day_009/):**
 
-- Introduction to React Hooks and why they were introduced
-- Understanding and using the `useState` hook for state management in functional components
-- Syntax and usage of `useState`
-- Best practices for managing state with hooks
-- Building a practical counter app using `useState`
-- Managing multiple state variables in a single component
-- Key takeaways for using hooks and state in React
-- Common interview questions about hooks and state
+- What is conditional rendering and why it's essential for dynamic UIs
+- How to use JavaScript expressions to render different UI elements based on conditions
+- Main techniques for conditional rendering:
+  - Ternary operators for inline conditions
+  - Logical && (AND) operator for simple show/hide logic
+  - if/else and switch statements for more complex logic (outside JSX)
+- Practical example: displaying a voting message based on age using a ternary operator in `App.jsx`
+- Best practices for keeping conditions readable and maintainable
+- Common use cases: showing/hiding elements, loading spinners, error messages, role-based UI
+- Key takeaways and interview questions about conditional rendering
 
 [See the full Day 009 guide &rarr;](./day_009/)
 
