@@ -204,6 +204,22 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 010: [Import and Export Patterns in React](./day_010/)
+
+**What we learned in [day_010](./day_010/):**
+
+- The difference between default and named exports in JavaScript modules
+- How to export a component as default or named from a file
+- How to import default and named exports in other files
+- Mixing default and named exports in the same file
+- Best practices for organizing exports and imports in React projects
+- Practical example: importing and using multiple components from a single file (`App.jsx` and `Child.jsx`)
+- Key takeaways and common interview questions about module exports
+
+[See the full Day 010 guide &rarr;](./day_010/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
