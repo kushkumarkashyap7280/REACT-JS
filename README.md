@@ -236,6 +236,23 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 012: [Styling in React: Inline, CSS Files, CSS Modules, and More](./day_012/)
+
+**What we learned in [day_012](./day_012/):**
+
+- The different ways to style React components: inline styles, style objects, external CSS files, CSS Modules, and utility-first frameworks like Tailwind CSS
+- How to use the `style` prop with inline objects and variables
+- How to import and use external CSS files with `className`
+- How to use CSS Modules for component-scoped styles
+- Why inline styles are generally discouraged for production code
+- Best practices for scalable and maintainable styling in React
+- Practical example: using all approaches in a single component (`App.jsx`)
+- Key takeaways and common interview questions about styling in React
+
+[See the full Day 012 guide &rarr;](./day_012/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
