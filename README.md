@@ -220,6 +220,22 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 011: [The React Children Prop and Component Composition](./day_011/)
+
+**What we learned in [day_011](./day_011/):**
+
+- What the `children` prop is in React and how it enables component composition
+- How to pass JSX elements as children between a component's opening and closing tags
+- How to access and render children inside a component using `props.children`
+- The advantages of using the children prop for flexible layouts and reusable wrappers
+- Best practices for using children in your components
+- Practical example: passing and rendering nested components (`App.jsx` and `Child.jsx`)
+- Key takeaways and common interview questions about the children prop
+
+[See the full Day 011 guide &rarr;](./day_011/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
