@@ -253,6 +253,23 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 013: [Event Handling in React](./day_013/)
+
+**What we learned in [day_013](./day_013/):**
+
+- How to handle events in React using synthetic events for consistent cross-browser behavior
+- Basic event handling with functions and inline arrow functions
+- How to pass event handlers as props to child components for component communication
+- Understanding event propagation (bubbling and capturing) and how to control it
+- Using `stopPropagation()` to prevent event bubbling
+- Best practices for event handling in React components
+- Practical example: handling clicks, hovers, and passing event handlers between components (`App.jsx` and `Child.jsx`)
+- Key takeaways and common interview questions about event handling in React
+
+[See the full Day 013 guide &rarr;](./day_013/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
