@@ -288,6 +288,24 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 015: [React Icons - Complete Guide](./day_015/)
+
+**What we learned in [day_015](./day_015/):**
+
+- What React Icons is and its key features (10,000+ icons, tree shaking, TypeScript support)
+- How to install and set up React Icons in your project using npm, yarn, or pnpm
+- Popular icon libraries included: Font Awesome, Feather Icons, Heroicons, Material Design, Ant Design, Bootstrap, Remix, and Tabler Icons
+- Basic usage patterns and props (size, color, className, style)
+- Advanced styling techniques: CSS classes, inline styles, and CSS-in-JS
+- Best practices for performance optimization, accessibility, and consistent sizing
+- Common use cases: navigation menus, social media icons, status indicators, loading spinners, button icons, form validation, rating systems, and file type icons
+- Troubleshooting common issues and bundle size optimization
+- Complete resources and documentation links for further learning
+
+[See the full Day 015 guide &rarr;](./day_015/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
