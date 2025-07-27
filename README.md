@@ -270,6 +270,24 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 014: [React Hooks: useState and State Management](./day_014/)
+
+**What we learned in [day_014](./day_014/):**
+
+- What React Hooks are and why they were introduced in React 16.8
+- How to use the `useState` hook for state management in functional components
+- Why regular variables don't trigger re-renders in React components
+- Understanding when React components re-render (props change, state change, parent re-renders)
+- The concept of derived state and when to calculate vs. store state
+- State lifting: how to share state between parent and child components
+- Best practices for state management including functional updates and descriptive naming
+- Practical examples: comparing regular variables vs. useState, derived state calculations, and state lifting patterns
+- Key takeaways and common interview questions about React Hooks and state management
+
+[See the full Day 014 guide &rarr;](./day_014/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
