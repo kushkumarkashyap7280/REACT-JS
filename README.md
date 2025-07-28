@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="100" alt="React Logo"/>
 </p>
 
-<h1 align="center">🚀 My React Learning Journey</h1>
+<h1 align="center"> My React Learning Journey</h1>
 
 > **Before you open any day's code, always read that day's README first!**
 >
@@ -303,6 +303,28 @@ This repository is a chronicle of my **React learning journey** — structured, 
 - Complete resources and documentation links for further learning
 
 [See the full Day 015 guide &rarr;](./day_015/)
+
+---
+
+## 📅 Day 016: [React Hooks: useEffect and Side Effects](./day_016/)
+
+**What we learned in [day_016](./day_016/):**
+
+- What side effects are and why they need special handling in React
+- How to use the `useEffect` hook to manage side effects in functional components
+- Four different ways to use useEffect:
+  - No dependency array (runs on every render)
+  - Empty dependency array (runs only once on mount)
+  - With dependencies (runs when dependencies change)
+  - With cleanup function (prevents memory leaks)
+- Understanding dependency arrays and their importance for controlling when effects run
+- How to prevent memory leaks with cleanup functions for timers, subscriptions, and event listeners
+- Real-world examples: API calls, document title updates, event listeners, and debounced search
+- Best practices for avoiding infinite loops and keeping effects focused
+- Common patterns for data fetching, debounced operations, and component lifecycle management
+- Key takeaways and common interview questions about useEffect and side effects
+
+[See the full Day 016 guide &rarr;](./day_016/)
 
 ---
 
