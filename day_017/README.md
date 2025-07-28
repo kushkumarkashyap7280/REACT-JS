@@ -1,8 +1,12 @@
 # Day 017 - Advanced Todo App with React Hooks
 
-##  Live Demo
+## Live Demo
+
+### 📱 Direct Links
 
 **[View the live todo app here](https://kushs-todo-react.vercel.app/)**
+
+**[View the GitHub repository here](https://github.com/kushkumarkashyap7280/MY-TODO)**
 
 ---
 

@@ -328,6 +328,32 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 017: [Advanced Todo App with React Hooks](./day_017/)
+
+**What we learned in [day_017](./day_017/):**
+
+- Building a complete, production-ready todo application with React
+- Advanced state management using React hooks (useState, useEffect)
+- Implementing CRUD operations: Create, Read, Update, Delete todos
+- Controlled form components with proper validation and error handling
+- Local storage integration for data persistence across browser sessions
+- Responsive design implementation with Tailwind CSS for mobile-first approach
+- Real-time features: live clock display, toast notifications, and interactive UI
+- Advanced UI/UX patterns: expandable descriptions, completion toggles, edit modes
+- Form validation and duplicate prevention with smart error handling
+- Component architecture and proper separation of concerns
+- Modern React patterns: functional components, hooks, and controlled inputs
+- Deployment to Vercel with automatic CI/CD pipeline
+- Performance optimizations and best practices for React applications
+
+**Live Demo:** [https://kushs-todo-react.vercel.app/](https://kushs-todo-react.vercel.app/)
+
+**GitHub Repository:** [https://github.com/kushkumarkashyap7280/MY-TODO](https://github.com/kushkumarkashyap7280/MY-TODO)
+
+[See the full Day 017 guide &rarr;](./day_017/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
