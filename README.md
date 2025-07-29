@@ -354,6 +354,35 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 018: [React Forms: Controlled vs Uncontrolled Components](./day_018/)
+
+**What we learned in [day_018](./day_018/):**
+
+- Understanding the fundamental difference between controlled and uncontrolled components in React forms
+- **Controlled Components**: React-managed state using useState and onChange handlers
+- **Uncontrolled Components**: DOM-managed state using useRef and FormData
+- When to use each approach based on form complexity and performance requirements
+- Fetch API integration for both JSON data and FormData (file uploads)
+- Real-time validation vs submit-time validation patterns
+- Performance implications: re-renders in controlled vs no re-renders in uncontrolled
+- Best practices for form handling in React applications
+- Common pitfalls and how to avoid them
+- Interactive demo showing both approaches side-by-side
+- Comparison table of features, use cases, and trade-offs
+- Complete implementation examples with validation and error handling
+- Interview questions and practical decision-making guidelines
+
+**Key Learning Outcomes:**
+- ✅ Choose the right form approach for your specific use case
+- ✅ Implement both controlled and uncontrolled patterns correctly
+- ✅ Handle form submissions with Fetch API for different data types
+- ✅ Apply performance optimizations and best practices
+- ✅ Build maintainable and scalable form components
+
+[See the full Day 018 guide &rarr;](./day_018/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
