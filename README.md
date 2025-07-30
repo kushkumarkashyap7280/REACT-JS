@@ -415,6 +415,35 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 020: [React Hooks: useRef and DOM Access](./day_020/)
+
+**What we learned in [day_020](./day_020/):**
+
+- Understanding the `useRef` hook and its role in React for DOM access and mutable value storage
+- **Three Main Use Cases**: DOM element access, storing mutable values, and tracking previous values
+- **Traditional vs React Approach**: Comparing `document.querySelector()` with `useRef` for DOM manipulation
+- **Form Handling**: Building forms with useRef for direct DOM access without re-renders
+- **Focus Management**: Implementing focus, blur, and text selection functionality
+- **Advanced Patterns**: Storing previous values, managing timers/intervals, and callback references
+- **useRef vs useState**: Understanding when to use each hook based on re-render requirements
+- **Best Practices**: Proper cleanup, avoiding direct DOM manipulation, and performance optimization
+- **Common Mistakes**: Identifying and avoiding pitfalls like memory leaks and premature ref access
+- **Real-World Applications**: Form validation, focus management, and third-party library integration
+
+**Key Learning Outcomes:**
+
+- ✅ Access DOM elements directly using useRef without breaking React's declarative paradigm
+- ✅ Store mutable values that don't trigger re-renders for performance optimization
+- ✅ Implement proper cleanup patterns to prevent memory leaks
+- ✅ Choose between useRef and useState based on specific use cases
+- ✅ Build maintainable React components with proper DOM interaction patterns
+
+**Practical Example:** Form handling with useRef demonstrating traditional DOM access vs React's useRef approach
+
+[See the full Day 020 guide &rarr;](./day_020/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
