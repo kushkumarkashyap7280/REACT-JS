@@ -444,6 +444,34 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 021: [React Context API: Solving Prop Drilling](./day_021/)
+
+**What we learned in [day_021](./day_021/):**
+
+- Understanding prop drilling and its problems in React component hierarchies
+- **Context API Introduction**: React's built-in solution for sharing data between components
+- **Multiple Contexts**: Using both UserContext and DarkModeContext in the same application
+- **Context vs Props**: When to use each approach based on specific use cases
+- **Best Practices**: Splitting contexts by domain, using custom hooks, and performance optimization
+- **Performance Considerations**: Memoizing context values and avoiding unnecessary re-renders
+- **Common Patterns**: Theme context, authentication context, and language context implementations
+- **Common Mistakes**: Proper error handling and context provider setup
+- **Context vs Redux**: Comparison and when to use each state management solution
+
+**Key Learning Outcomes:**
+
+- ✅ Solve prop drilling problems using React's Context API
+- ✅ Create and manage multiple contexts in a single application
+- ✅ Implement proper context providers and consumers with useContext
+- ✅ Apply performance best practices for context usage
+- ✅ Choose between Context API and other state management solutions
+
+**Practical Example:** Dark mode implementation with context demonstrating how to avoid prop drilling through multiple component levels
+
+[See the full Day 021 guide &rarr;](./day_021/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
