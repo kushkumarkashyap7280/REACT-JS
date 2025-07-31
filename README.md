@@ -502,6 +502,35 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 023: [React Performance Optimization: React.memo, useMemo, and useCallback](./day_023/)
+
+**What we learned in [day_023](./day_023/):**
+
+- Understanding the performance problems caused by unnecessary re-renders in React applications
+- **React.memo**: Preventing unnecessary re-renders of components when props haven't changed
+- **useMemo**: Memoizing expensive calculations and object creation to avoid repeated computations
+- **useCallback**: Memoizing functions to prevent recreation on every render
+- **Performance Optimization**: When to use each optimization technique and when to avoid over-optimization
+- **Common Patterns**: Memoized child components, expensive calculations, and API call optimization
+- **Debugging and Monitoring**: Using console logging and React DevTools Profiler for performance analysis
+- **Testing Strategies**: How to test if memoization is working correctly
+- **Best Practices**: Avoiding common mistakes like over-optimization and missing dependencies
+
+**Key Learning Outcomes:**
+
+- ✅ Prevent unnecessary re-renders using React.memo for pure components
+- ✅ Optimize expensive calculations with useMemo to avoid repeated computations
+- ✅ Memoize functions with useCallback to maintain stable references
+- ✅ Debug performance issues using React DevTools and console logging
+- ✅ Test memoization effectiveness with proper testing strategies
+- ✅ Apply performance optimization only when needed to avoid premature optimization
+
+**Practical Example:** Comprehensive performance optimization demo with interactive UI, console logging, and real-time feedback showing useCallback, useMemo, and React.memo in action with styled components and educational performance tips
+
+[See the full Day 023 guide &rarr;](./day_023/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
