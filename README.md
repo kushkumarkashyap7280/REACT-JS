@@ -472,6 +472,36 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 022: [React useReducer Hook: Advanced State Management](./day_022/)
+
+**What we learned in [day_022](./day_022/):**
+
+- Understanding the `useReducer` hook as an alternative to `useState` for complex state logic
+- **useReducer vs useState**: When to use each hook based on state complexity and predictability
+- **Reducer Pattern**: Pure functions that take current state and action, returning new state
+- **Action Objects**: Structured actions with `type` and optional `payload` for predictable state transitions
+- **Complex State Management**: Working with objects, arrays, and nested state structures
+- **Best Practices**: Immutable updates, pure reducer functions, and action type constants
+- **Common Patterns**: Form management, shopping cart, and authentication state patterns
+- **Performance Considerations**: Stable dispatch functions and avoiding unnecessary re-renders
+- **Testing Strategies**: How to test reducer functions and components using useReducer
+- **useReducer vs Redux**: Comparison and when to use each state management solution
+
+**Key Learning Outcomes:**
+
+- ✅ Choose between useReducer and useState based on state complexity
+- ✅ Implement pure reducer functions with immutable state updates
+- ✅ Structure action objects with proper type and payload conventions
+- ✅ Apply common patterns for form management and complex state logic
+- ✅ Test reducer functions and components effectively
+- ✅ Optimize performance with stable dispatch functions
+
+**Practical Example:** Todo list application demonstrating array state management with add/remove operations, showing how useReducer provides predictable state transitions
+
+[See the full Day 022 guide &rarr;](./day_022/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
