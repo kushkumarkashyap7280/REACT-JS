@@ -531,6 +531,40 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 024: [React Router DOM: Complete Routing Solution](./day_024/)
+
+**What we learned in [day_024](./day_024/):**
+
+- Understanding React Router DOM as a powerful library for handling routing in React applications
+- **Installation and Setup**: Installing react-router-dom package and proper import statements
+- **Basic Router Setup**: RouterProvider, createBrowserRouter, and route configuration
+- **Layout Pattern with Outlet**: Creating consistent UI with shared header and footer across pages
+- **Navigation Components**: Three approaches - anchor tags (avoid), Link (basic), NavLink (best practice)
+- **Dynamic Routes**: Route parameters with useParams hook for parameterized URLs
+- **Query Parameters**: Using useSearchParams hook for URL query string management
+- **Programmatic Navigation**: useNavigate hook for conditional and programmatic navigation
+- **Error Handling**: Error routes, catch-all routes, and graceful 404 page handling
+- **Advanced Routing Patterns**: Nested routes, index routes, and protected routes
+- **Performance Considerations**: Code splitting with lazy loading and route preloading
+- **Testing Strategies**: How to test React Router components and navigation
+- **Best Practices**: URL patterns, route organization, and debugging common issues
+
+**Key Learning Outcomes:**
+
+- ✅ Set up React Router DOM with proper router configuration and layout patterns
+- ✅ Implement different navigation approaches (Link, NavLink, useNavigate) for various use cases
+- ✅ Handle dynamic routes and query parameters for flexible URL structures
+- ✅ Create error boundaries and graceful error handling for routing issues
+- ✅ Apply advanced routing patterns like nested routes and protected routes
+- ✅ Optimize routing performance with code splitting and preloading strategies
+- ✅ Test React Router components effectively with proper testing approaches
+
+**Practical Example:** Complete React Router implementation with layout pattern, dynamic routes, query parameters, and error handling demonstrating scalable architecture with consistent UI, smooth navigation, and proper error boundaries
+
+[See the full Day 024 guide &rarr;](./day_024/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
