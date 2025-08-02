@@ -565,6 +565,41 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 025: [Axios HTTP Requests: Complete API Integration Guide](./day_025/)
+
+**What we learned in [day_025](./day_025/):**
+
+- Understanding Axios as a popular HTTP client library for making API requests in JavaScript applications
+- **HTTP Request Methods**: GET, POST, PUT, PATCH, DELETE with proper syntax and configuration
+- **Axios Configuration**: Headers, params, timeout, response types, and global configuration
+- **Data Formats**: JSON, FormData, URL-encoded, binary data, and XML handling
+- **Error Handling**: Comprehensive error patterns, try-catch blocks, and custom error handlers
+- **Request/Response Interceptors**: Global request/response handling for authentication and loading states
+- **File Upload Examples**: Single/multiple file uploads with progress tracking and FormData
+- **Authentication Patterns**: Bearer tokens, API keys, and basic authentication
+- **Advanced Configuration**: Custom axios instances, request cancellation, and concurrent requests
+- **React Integration**: Custom hooks for API calls, service layers, and form submission patterns
+- **Performance Optimization**: Request caching, debouncing, and retry logic
+- **Testing Strategies**: Mocking axios requests and testing with Jest
+- **Debugging and Troubleshooting**: Common issues like CORS, timeouts, and large file uploads
+
+**Key Learning Outcomes:**
+
+- ✅ Make HTTP requests using all major methods (GET, POST, PUT, PATCH, DELETE)
+- ✅ Handle different data formats including JSON, FormData, and binary data
+- ✅ Implement comprehensive error handling with proper user feedback
+- ✅ Use interceptors for global request/response handling and authentication
+- ✅ Upload files with progress tracking and proper FormData handling
+- ✅ Create custom hooks and service layers for maintainable API integration
+- ✅ Optimize performance with caching, debouncing, and request cancellation
+- ✅ Test axios requests effectively with proper mocking strategies
+
+**Practical Example:** Complete API integration with Axios demonstrating proper error handling, loading states, authentication, and user feedback for reliable HTTP requests in React applications
+
+[See the full Day 025 guide &rarr;](./day_025/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
