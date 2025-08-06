@@ -600,6 +600,40 @@ This repository is a chronicle of my **React learning journey** — structured, 
 
 ---
 
+## 📅 Day 026: [React Query & Data Fetching: Modern State Management](./day_026/)
+
+**What we learned in [day_026](./day_026/):**
+
+- Understanding React Query (TanStack Query) as a powerful data fetching and caching library for React applications
+- **Modern Data Fetching**: Using `@tanstack/react-query` for efficient data management with automatic caching
+- **Traditional vs Modern Approaches**: Comparing useState + useEffect with React Query's declarative data fetching
+- **Query Configuration**: Stale time, garbage collection, refetch intervals, and background updates
+- **Pagination Implementation**: Page-based navigation with automatic refetching and placeholder data
+- **Mutations (CRUD Operations)**: Create, Update, Delete operations with optimistic updates and rollback
+- **Infinite Scroll**: Using `react-intersection-observer` for performance-optimized infinite scrolling
+- **Error Handling**: Comprehensive error states, retry mechanisms, and user feedback
+- **Performance Optimizations**: Automatic caching, background updates, and query invalidation
+- **API Integration**: JSONPlaceholder API for posts and GitHub API for users
+- **Advanced Patterns**: Query invalidation, prefetching, and optimistic updates
+- **Component Architecture**: Proper separation of concerns with layouts, pages, and API layers
+
+**Key Learning Outcomes:**
+
+- ✅ Implement modern data fetching with React Query's automatic caching and background updates
+- ✅ Compare traditional useState + useEffect patterns with React Query's declarative approach
+- ✅ Build pagination systems with automatic refetching and smooth transitions
+- ✅ Create mutations with optimistic updates and proper error rollback
+- ✅ Implement infinite scroll using Intersection Observer for performance
+- ✅ Handle complex state management with React Query's built-in loading and error states
+- ✅ Optimize performance with query invalidation, prefetching, and caching strategies
+- ✅ Design maintainable component architecture with proper API layer separation
+
+**Practical Example:** Complete React Query implementation demonstrating data fetching, pagination, mutations, infinite scroll, and performance optimizations with both JSONPlaceholder and GitHub APIs
+
+[See the full Day 026 guide &rarr;](./day_026/)
+
+---
+
 <p align="center">
   <b>✨ Keep learning, keep building, and stay curious! ✨</b><br/>
   <sub>Follow my journey and feel free to connect!</sub>
